@@ -1,0 +1,11 @@
+body {
+	min-height: 2000px;
+  padding-top: 70px;
+}
+.demo-content{
+  padding: 15px;
+  font-size: 18px;
+  min-height: 300px;
+  background: #dbdfe5;
+  margin-bottom: 10px;
+}
